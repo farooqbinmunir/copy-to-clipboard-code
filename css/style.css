@@ -46,6 +46,9 @@ mark{
 	padding: 40px;
 	box-shadow: 0 0 20px -5px black;
 }
+.fbm-hero-title {
+	margin-bottom: 20px;
+}
 #fbm-copy-btn {
 	padding: 5px 10px;
 	margin: 20px 0;
