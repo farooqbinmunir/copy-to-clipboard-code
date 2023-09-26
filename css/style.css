@@ -43,7 +43,7 @@ mark{
 /* Start Custom Styles */
 
 
-#fbm-copy-btn {
+.fbm-copy-btn {
 	display: block;
 	padding: 5px 10px;
 	cursor: pointer;
