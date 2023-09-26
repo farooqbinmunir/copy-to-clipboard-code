@@ -11,8 +11,8 @@ ________________________________________________________________________________
 /%%%%%%%%%%%%%%%		Read Me!	%%%%%%%%%%%%%%%/
 
 1. Extract the files
-2. Open 'upcoming-events.html' file in you browser
-3. Got it, you'll see the upcoming event countdown timer working
+2. Open 'index.html' file in you browser
+3. Got it, you'll see the some text and a button to copy the content, on click of button, the text above will get copied to your clipboard
 4. Now you can use it, where there is need
 
 
