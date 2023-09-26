@@ -53,3 +53,13 @@ mark{
 	border-radius: 5px;
 	background: lightgreen;
 }
+#fbm-test-paste {
+	display: block;
+	border: none;
+	width: 100%;
+	padding: var(--fbm-padding-standard);
+}
+#fbm-test-paste:focus{
+    outline: none;
+    border: none;
+}
