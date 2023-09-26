@@ -1,0 +1,45 @@
+body{
+    background: chocolate;
+    font-family: verdana;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --fbm-border-standard: 1px solid rgba(0, 0, 0, .2);
+    --fbm-padding-standard: 10px 20px;
+    --fbm-color-text: crimson;
+    --fbm-color-primary: goldenrod;
+}
+#logo{
+    width: 200px;
+    height: 150px;
+}
+.logo-wrapper{
+    height: inherit;
+    width: inherit;
+}
+#logo img#logo-img{
+    display: block;
+    width: inherit;
+    height: inherit;
+
+}
+.parent{
+    position: relative;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+mark{
+    padding: 20px;
+}
+
+/* Start Custom Styles */
+
+
