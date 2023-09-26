@@ -41,6 +41,11 @@ mark{
 }
 
 /* Start Custom Styles */
+.fbm-content-wrapper {
+	background: lightseagreen;
+	padding: 40px;
+	box-shadow: 0 0 20px -5px black;
+}
 #fbm-copy-btn {
 	padding: 5px 10px;
 	margin: 20px 0;
